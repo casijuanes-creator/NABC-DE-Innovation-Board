@@ -115,7 +115,7 @@ The personas are interpretive tools for strategic thinking. They are not attempt
 
 ## A note on use
 
-This repo is shared privately with students and collaborators. Do not redistribute without permission.
+This repo is shared with students and collaborators. Redistribute only in accordance to the license indicated above.
 The frameworks belong to their creators. The integration, the workflow, and the board architecture belong to this project.
 Use it to build something worth building.
 
